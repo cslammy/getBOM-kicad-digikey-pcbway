@@ -17,7 +17,7 @@ openpyxl
 requests 
 beautifulsoup4
 
---In Kicad 9 schematic editor tools > export BOM, save KICAD BOM as CSV file, put the CSV file into same folder as script
+--In Kicad 9 schematic editor tools > export BOM, save KICAD BOM as CSV file, put the CSV file into same folder as script. call it kicadbom.csv
 
 --Put the Sample BOM PCBWAY file in the same folder as the script.
 
